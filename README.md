@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I’m Kelly
 
-<!--
-**kellyjslone/kellyjslone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building practical tools for soccer coaches and network engineers.
 
-Here are some ideas to get you started:
+## ⚽ Soccer Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### GoalScout
+Find likely goals in full-match video using on-screen score changes, compare scoreboard snapshots, then preview, trim, and save the moments you want to keep.
+
+Currently in development, with a Mac app being refined through real game footage. Preparing it for sharing.
+
+## 🌐 Networking Projects
+
+Network automation, Cisco utilities, configuration helpers, and troubleshooting tools.
+
+Projects will be added here as they are ready to share.
